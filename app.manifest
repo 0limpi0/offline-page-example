@@ -1,0 +1,21 @@
+CACHE MANIFEST
+#21/03/2013:v6
+
+CACHE:
+# Lista de arquivos para uso offline
+index.html
+./bootstrap/css/bootstrap.min.css
+./bootstrap/img/glyphicons-halflings-white.png
+./bootstrap/img/glyphicons-halflings.png
+modernizr.js
+
+NETWORK:
+# Lista de arquivos não necessários para uso offline
+./bootstrap/css/bootstrap-responsive.css
+./bootstrap/css/bootstrap-responsive.min.css
+./bootstrap/css/bootstrap.css
+./bootstrap/js/bootstrap.js
+./bootstrap/js/bootstrap.min.js
+
+FALLBACK:
+# Lista de arquivos alternativos para uso offline
